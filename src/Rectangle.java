@@ -9,6 +9,7 @@ public class Rectangle {
 
   public int getArea() {
     return length * width;
+    
   }
 
   public int getPerimeter() {
